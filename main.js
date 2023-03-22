@@ -77,11 +77,6 @@ function MakeBook(title, author, pages, read) {
     this.read = read,
     this.id = myLibrary.length.toString()
 
-    this.read = function () {
-        if (true) {
-            
-        }
-    }
 }
 
 //adds book to array and updates view
